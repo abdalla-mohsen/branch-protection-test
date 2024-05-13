@@ -1,1 +1,1 @@
-try to enable a branch protection on public repo
+try to enable a branch protection on public repo after the file editting to commit it again and push it using a pull request 
